@@ -1,0 +1,15 @@
+after creating a project in convex website, in the terminal:
+
+1) run: npm install convex
+2) npx convex dev
+3) will ask to create or use existing project.
+4) if already created just select that.
+5) then there will be this folder created, and will have some generated code, stored in _generated folder.
+
+Inside the convex folder(outside the _generated folder), the files i created are these:
+
+1) schema.js
+
+2) ConvexClientProvider.jsx: inside the main app folder, outside the convex folder
+
+3) users.js (inside this folder)
